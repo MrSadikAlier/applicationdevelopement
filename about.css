@@ -1,0 +1,150 @@
+.main-div{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    position: relative;
+}
+.img{
+    width: 50%;
+    height: 400px;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+.navebar{
+    margin-left: 25%;
+}
+.ankerTag{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    margin-top: 35px;
+    margin-left: 40px;
+    
+}
+.ankerTag2{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    margin-top: 35px;
+    margin-left: 130px;
+    
+}
+.ankerTag3{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    margin-top: 35px;
+    margin-left: 230px;
+    
+}
+.second-div{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+.img-ceo{
+    margin-top: 20px;
+}
+.heading{
+    
+    font-size: 50px;
+    
+}
+.third-div{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    color: white;
+}
+.heading2{
+    margin-left: 10%;
+}
+.text-card{
+    width: 50%;
+    text-align: center;
+    text-align: justify;
+    margin-left: 10%;
+    margin-top: 40px;
+}
+.more-details{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 25%;
+    text-align: center;
+}
+@media only screen and (max-width: 600px) {
+    .main-div{
+        width: 100%;
+        height: 450px;
+        background-color: black;
+        position: relative;
+    }
+    .img{
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-top: 30px;
+    }
+    .ankerTag{
+        position: absolute;
+        text-decoration: none;
+        color: white;
+        margin-top: 25px;
+        margin-left: 10px;
+        
+    }
+
+    .ankerTag2{
+        position: absolute;
+        text-decoration: none;
+        color: white;
+        margin-top: 25px;
+        margin-left: 75px;
+        
+    }  
+    .ankerTag3{
+        position: absolute;
+        text-decoration: none;
+        color: white;
+        margin-top: 25px;
+        margin-left: 140px;
+        
+    }   
+    .navebar{
+        margin-left: 2%;
+    }
+    .heading{
+        font-size: 15px;
+    }
+    .third-div{
+        width: 100%;
+        height: 400px;
+        background-color: black;
+        color: white;
+    }
+    .heading2{
+        margin-left: 10%;
+    }
+    .text-card{
+        width: 80%;
+        text-align: center;
+        text-align: justify;
+        margin-left: 10%;
+        margin-top: 40px;
+    }
+    .more-details{
+        width: 80%;
+        margin-top: 50px;
+        margin-left: 10%;
+        text-align: center;
+    }
+    .third-div{
+        width: 100%;
+        height: 600px;
+        background-color: black;
+        color: white;
+    }
+}

@@ -1,0 +1,190 @@
+.main-div{
+    width: 100%;
+    height: 600px;
+    background-image: url(./img/color.jpg);
+    position: relative;
+}
+.medile-div{
+    background-image: url(./img/services_page_0.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.text{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 500px;
+    color: white;
+}
+.box-b{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    color: white;
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
+.background-color-black{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    position: relative;
+}
+
+.card-bg{
+    margin-top: 70px;
+    background-color: black;
+    color: white;
+}
+.card-b{
+    border: 1px solid gray;
+}
+.img{
+    width: 400px;
+    height: 400px;
+}
+.profile-text{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.client-roter{
+    background-color: black;
+    color: white;
+    position: relative;
+    height: 700px;
+    width: 100%;
+}
+.centerclass{
+    width: 90%;
+    margin-left: 5%;
+}
+.card-title{
+    margin-left: 10px;
+}
+.card-text{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.ankerTag{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+   margin-left:430px;
+   margin-top: 40px;
+}
+.ankerTag2{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    margin-top: 40px;
+   margin-left:490px;
+}
+.ankerTag3{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    
+   margin-left:560px;
+   margin-top: 40px;
+}
+.inputs{
+    position: absolute;
+    color: white;
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 10%;
+    
+}
+.input{
+    width: 60%;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+.submit{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+.background-color-black3{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    position: relative;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-div{
+        width: 100%;
+        height: 900px;
+        background-image: url(./img/color.jpg);
+    }
+    .medile-div{
+        background-image: url(./img/services_page_0.jpg);
+        width: 100%;
+        height: 500px;
+        background-repeat: no-repeat;
+    }
+    .text{
+        position: absolute;
+        margin-top: 600px;
+        margin-left: 20px;
+        color: white;
+    }
+    
+    .box-b{
+        width: 100%;
+        height: 700px;
+        background-color: black;
+        color: white;
+        position: relative;
+        align-items: center;
+        text-align: center;
+    }
+
+    .background-color-black{
+        width: 100%;
+        height: 800px;
+        background-color: black;
+        position: relative;
+    }
+    .img{
+        width: 340px;
+        height: 300px;
+        margin-left: 15px;
+    }
+    .profile-text{
+        margin-top: 10px;
+    }
+
+    .client-roter{
+        background-color: black;
+        color: white;
+        position: relative;
+        height: 900px;
+        width: 100%;
+    }
+    .ankerTag{
+        position: absolute;
+        text-decoration: none;
+        color: white;
+        margin-top: 20px;
+       margin-left:30px;
+    }
+    .ankerTag2{
+        position: absolute;
+        text-decoration: none;
+        color: white;
+        margin-top: 20px;
+       margin-left:100px;
+    }
+    .ankerTag3{
+        position: absolute;
+        text-decoration: none;
+        color: white;
+        margin-top: 20px;
+       margin-left:170px;
+    }
+    
+}
